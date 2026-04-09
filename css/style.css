@@ -13,10 +13,10 @@ h1 {
   padding: 6px 0;
   margin: 20px auto;
   width: 300px;
-  text-align: center;
+  text-align: left;
 }
 p,ul {
-  text-align: center;
+  text-align: left;
   margin-bottom: 20px;
 }
 img {
